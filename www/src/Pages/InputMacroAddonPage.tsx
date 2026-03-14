@@ -33,7 +33,7 @@ const MACRO_TYPES = [
 	{ label: 'InputMacroAddon:input-macro-type.toggle', value: 3 },
 ];
 const MACRO_INPUTS_MAX = 850;
-const MACRO_LIMIT = 6;
+const MACRO_LIMIT = 1;
 
 const schema = yup.object().shape({
 	macroList: yup.array().of(
