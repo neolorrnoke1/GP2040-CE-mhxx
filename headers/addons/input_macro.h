@@ -25,7 +25,7 @@
 #define INPUT_MACRO_PIN -1
 #endif
 
-#define MAX_MACRO_INPUT_LIMIT 850
+#define MAX_MACRO_INPUT_LIMIT 30
 #define MAX_MACRO_LIMIT 1
 #define INPUT_HOLD_US 16666
 
